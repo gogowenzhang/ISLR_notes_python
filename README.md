@@ -5,5 +5,4 @@ and find that it is a good way to learn this book by realizing these awosome tab
 
 - [Chapter 2 Statistical Learning](https://github.com/gogowenzhang/ISLR_notes_python/blob/master/Chapter%202%20Statistical%20Learning.ipynb)
 
-- [Chapter 3 Linear Regression]
-(https://github.com/gogowenzhang/ISLR_notes_python/blob/master/Chapter%203%20Linear%20Regression.ipynb)
+- [Chapter 3: Linear Regression](https://github.com/gogowenzhang/ISLR_notes_python/blob/master/Chapter%203%20Linear%20Regression.ipynb)
