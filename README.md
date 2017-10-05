@@ -4,3 +4,6 @@ I am currently reading this baby Bible book of Machine Learning [Introduction to
 and find that it is a good way to learn this book by realizing these awosome tables and figures in this book. Hope you will find it helpful too!
 
 - [Chapter 2 Statistical Learning](https://github.com/gogowenzhang/ISLR_notes_python/blob/master/Chapter%202%20Statistical%20Learning.ipynb)
+
+- [Chapter 3 Linear Regression]
+(https://github.com/gogowenzhang/ISLR_notes_python/blob/master/Chapter%203%20Linear%20Regression.ipynb)
